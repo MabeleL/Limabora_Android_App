@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "145903537768",
+    "firebase_url": "https://project-e-5069c.firebaseio.com",
+    "project_id": "project-e-5069c",
+    "storage_bucket": "project-e-5069c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145903537768:android:f07b379b171affcd",
+        "android_client_info": {
+          "package_name": "com.incubationproject.mabele.limabora_mti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145903537768-fuisjl1b2baij7ccgs58qh2n5fcm6fnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSlLk54a77tR8VyqHJEapGA9AJUYNA99E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
